@@ -24,7 +24,7 @@ const modals = () => {
       });
     });
 
-    const closeModal = (): void => {
+    const closeModal = () => {
       modal.style.display = "none";
       document.body.style.overflow = "";
     };
