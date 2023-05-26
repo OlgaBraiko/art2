@@ -1,4 +1,4 @@
-import modals from "../../ts/modals";
+import modals from "../../ts/popup";
 
 window.addEventListener("DOMContentLoaded", () => {
   modals();
